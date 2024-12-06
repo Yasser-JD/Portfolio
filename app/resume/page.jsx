@@ -71,7 +71,7 @@ const about = {
     },
     {
       fieldName: "Languages",
-      filedValue: "AR, FR, EN, SP",
+      filedValue: "AR, FR, EN, ES",
     },
   ],
 };
