@@ -29,6 +29,7 @@ const Home = () => {
             <div className="flex flex-col xl:flex-row items-center gap-8">
               <Button
                 variant="outline"
+                href="YassirJAAIDI.pdf"
                 size="lg"
                 className="uppercase flex items-center gap-2"
               >
