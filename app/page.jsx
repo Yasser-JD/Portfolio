@@ -29,7 +29,7 @@ const Home = () => {
             <div className="flex flex-col xl:flex-row items-center gap-8">
               <a
                 href="/YassirJAAIDI.pdf"
-                download
+              
                 target="_blank"
                 rel="noopener noreferrer"
               >
