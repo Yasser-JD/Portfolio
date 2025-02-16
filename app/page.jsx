@@ -28,7 +28,7 @@ const Home = () => {
             {/* btn and socials */}
             <div className="flex flex-col xl:flex-row items-center gap-8">
               <a
-                href="./CVYassirJAAIDI.pdf"
+                href="/CVYassirJAAIDI.pdf"
                 download
                 target="_blank"
                 rel="noopener noreferrer"
