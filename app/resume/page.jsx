@@ -84,9 +84,9 @@ const experience = {
     "I am currently building my skills through personal and academic projects in Android and web development. My work includes creating functional apps, as well as exploring dynamic web solutions. While I don’t have professional experience yet, I am eager to apply my knowledge, tackle real-world challenges, and grow as a developer in a professional setting.",
   items: [
     {
-      company: "Tech Solutions Inc.",
-      position: "Mobile App Developer",
-      duration: "2023-Present",
+      company: "",
+      position: "",
+      duration: "",
     },
   ],
 };
@@ -106,12 +106,12 @@ const education = {
     {
       institution: "The City of Trades and Skills.",
       degree: "Web Development.",
-      duration: "2023",
+      duration: "2023-2024",
     },
     {
       institution: "The City of Trades and Skills.",
       degree: "Mobile Application Development.",
-      duration: "2024",
+      duration: "2024-2025",
     },
     {
       institution: "Online Course Platform",
