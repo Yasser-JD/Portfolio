@@ -6,26 +6,26 @@ import Link from "next/link";
 const services = [
   {
     num: "01",
-    title: "Web Developement",
-    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    title: "Mobile Developement",
+    description: "Build Mobile Android apps using kotlin, multiplatrform apps using flutter.",
     href: "",
   },
   {
     num: "02",
-    title: "Mobile Developement",
-    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    title: "Web Developement",
+    description: "Build Web apps using html, css, javascrcript and Next.js.",
     href: "",
   },
   {
     num: "03",
     title: "UI/UX Design",
-    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    description: "Design UI/UX using Figma.",
     href: "",
   },
   {
     num: "04",
     title: "Programming",
-    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    description: "Basic Programming using python",
     href: "",
   },
 ];
